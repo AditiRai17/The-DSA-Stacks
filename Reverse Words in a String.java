@@ -44,4 +44,7 @@ class Solution {
         sb.setLength(sb.length( )-1);// remove last space
         return sb.toString();
     }
+<<<<<<< HEAD
+}
+=======
 }
