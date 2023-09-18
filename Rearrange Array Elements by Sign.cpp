@@ -32,11 +32,7 @@
     So nums is rearranged to [1,-1].
     
     -----------
-<<<<<<< HEAD
     
-=======
-
->>>>>>> d279557 (Day 14/100)
     Constraints:
 
     2 <= nums.length <= 2 * 105
