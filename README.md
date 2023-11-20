@@ -1,4 +1,4 @@
-# Leetcode
+# The-DSA-Stacks
 
 WELCOME TO THE JOURNEY OF HAPPY CODES!
 
