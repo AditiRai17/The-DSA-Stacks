@@ -3,7 +3,7 @@
 Let's take an Array : arr[]  
 Let's see how we find size of arr[] in different cases :
 
-  ### arr.size()
+  ### 1. arr.size()
   
   ##### size() built-in-function can be used with array to find its size only if we are using STL array Declaration.
 
@@ -13,7 +13,7 @@ Let's see how we find size of arr[] in different cases :
             Example 2 : array<int , 5> arr{}; //arr.size() Output : 5
             Example 1 : array<int , 5> arr{8,14,2,20,13}; //arr.size() Output : 5
 
- ### sizeof(arr)/sizeof(arr[0])
+ ### 2. sizeof(arr)/sizeof(arr[0])
    Here , We are using sizeof() built-in-function. 
 
    ##### sizeof() : gives size in bytes
@@ -30,7 +30,7 @@ Let's see how we find size of arr[] in different cases :
                */
 
 
-### end(arr) - begin(arr)
+### 3. end(arr) - begin(arr)
 
   ##### end() and begin() built-in-functions are used to get the iterators pointing to last and first elements of array respectively.
 
@@ -40,6 +40,6 @@ Let's see how we find size of arr[] in different cases :
   int N = end(arr) - begin(arr); // 7-0 = 7
 
 
-### Using Loop
+### 4. Using Loop
 
   Counting by iterating over the elements using loops and increasing the count variable at each iteration.
